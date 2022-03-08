@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($POWERD/$DEVIDE))
+echo $(($POWER/$DEVIDE))
